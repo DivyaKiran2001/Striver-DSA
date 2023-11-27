@@ -1,4 +1,4 @@
-<h1>This Repository Contains all Striver DSA important Questions on the following Topics</h1>
+<h1>This Repository Contains  Striver DSA important Questions on the following Topics</h1>
 
 <ol>
   <h2><li>Arrays</li></h2>
@@ -53,8 +53,7 @@
       <li>Burning Tree</li>
       <li>Maximum Path Sum from any node</li>
       <li>Construct Binary Tree from Inorder and Preorder Traversal</li>
-      <li>Largest BST</li>
-      
+      <li>Largest BST</li>      
     </ol>
 
   <h2><li>Graphs</li></h2>
