@@ -9,7 +9,6 @@
     <li>Majority Element(>n/2 times)</li>
     <li>Two Sum Problem</li>
     <li>Longest Substring without Repeating Characters </li>
-    <li>Longest Subarray with sum K</li>
     <li>Wave Array</li>
   </ol>
     
