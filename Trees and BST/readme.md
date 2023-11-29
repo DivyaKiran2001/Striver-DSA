@@ -17,6 +17,5 @@
       <li>Maximum Sum of Non adjacent Nodes</li>
       <li>Burning Tree</li>
       <li>Maximum Path Sum from any node</li>
-      <li>Construct Binary Tree from Inorder and Preorder Traversal</li>
       <li>Largest BST</li>      
     </ol>
