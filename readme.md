@@ -46,7 +46,6 @@
       <li>Inorder,Preorder,Postorder traversal in a Binary Tree</li>
       <li>Top/Bottom View of Binary Tree</li>
       <li>Check if a tree is Binary Search Tree(BST) or not</li>
-      <li>Maximum Width of Tree</li>
       <li>Maximum Sum of Non adjacent Nodes</li>
       <li>Burning Tree</li>
       <li>Maximum Path Sum from any node</li>
