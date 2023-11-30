@@ -16,6 +16,5 @@
       <li>Check if a tree is Binary Search Tree(BST) or not</li>
       <li>Maximum Sum of Non adjacent Nodes</li>
       <li>Burning Tree</li>
-      <li>Maximum Path Sum from any node</li>
-      <li>Largest BST</li>      
+      <li>Maximum Path Sum from any node</li> 
     </ol>
