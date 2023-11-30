@@ -38,7 +38,6 @@
     <ul>
     <li>Maximum Product Subarray</li>
     <li>Egg Dropping Problem</li>
-    <li>Word Break</li>
     <li>Trapping Rain Water</li>
   </ul>
   <h2><li>Trees and BST</li></h2>
