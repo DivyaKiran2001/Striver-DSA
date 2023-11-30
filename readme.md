@@ -34,12 +34,6 @@
     <li>Longest Common Subsequence</li>
   </ul>
       
-  <h3>Others</h3>
-    <ul>
-    <li>Maximum Product Subarray</li>
-    <li>Egg Dropping Problem</li>
-    <li>Trapping Rain Water</li>
-  </ul>
   <h2><li>Trees and BST</li></h2>
     <ol type="1">
       <li>Breadth First Search(BFS)-Level Order Traversal</li>
