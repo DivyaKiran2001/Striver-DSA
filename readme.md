@@ -26,7 +26,6 @@
   <h3>DP on Subsequences</h3>
   <ul>
     <li>Coin Change</li>
-    <li>0-1 Knapsack</li>
   </ul>
   <h3>DP on Strings</h3>
   <ul>
@@ -53,7 +52,7 @@
       <li>Maximum Sum of Non adjacent Nodes</li>
       <li>Burning Tree</li>
       <li>Maximum Path Sum from any node</li>
-      <li>Largest BST</li>      
+   
     </ol>
 
   <h2><li>Graphs</li></h2>
@@ -95,5 +94,7 @@
       <li>LRU Cache</li>
       <li>Smallest Window Containing all the characters of another string</li>
       <li>Mobile Numeric Keypad</li>
+      <li>Largest BST</li>  
+      <li>0-1 Knapsack</li>
     </ol>
 </ol>
