@@ -32,7 +32,6 @@
   <ul>
     <li>Longest Increasing Subsequence</li>
     <li>Longest Common Subsequence</li>
-    <li>Edit Distance</li>
   </ul>
       
   <h3>Others</h3>
