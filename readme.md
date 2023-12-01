@@ -52,7 +52,6 @@
       <li>Maximum Sum of Non adjacent Nodes</li>
       <li>Burning Tree</li>
       <li>Maximum Path Sum from any node</li>
-   
     </ol>
 
   <h2><li>Graphs</li></h2>
