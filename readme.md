@@ -68,10 +68,6 @@
       <li>Rotten Oranges</li>
       <li>Minimum Spanning Tree</li>
       <li>Alien Dictionary</li>
-      <li>Word Ladder I</li>
-      <li>Strongly Connected Components(Using KosaRaj Algorithm)</li>
-      <li>Minimum Spanning Tree (MST) using Prims Algorithm</li>
-      <li>Minimum Spanning Tree (MST) using Kruskal Algorithm</li>
     </ol>
   <h2><li>Linked Lists</li></h2>
     <ol type="1">
