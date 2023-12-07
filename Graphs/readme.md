@@ -13,5 +13,4 @@
       <li>Implementing Dijksta Algorithm</li>
       <li>Rotten Oranges</li>
       <li>Minimum Spanning Tree</li>
-      <li>Alien Dictionary</li>
     </ol>
