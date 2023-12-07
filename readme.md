@@ -67,7 +67,6 @@
       <li>Implementing Dijksta Algorithm</li>
       <li>Rotten Oranges</li>
       <li>Minimum Spanning Tree</li>
-      <li>Alien Dictionary</li>
     </ol>
   <h2><li>Linked Lists</li></h2>
     <ol type="1">
