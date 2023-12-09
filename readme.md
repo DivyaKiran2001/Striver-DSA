@@ -84,11 +84,5 @@
       <li>Sliding Window Maximum</li>
       <li>First Non Repeating Character in a Stream</li>
       <li>Check for Valid Parenthesis</li>
-      <li>Trapping Rain Water Problem</li>
-      <li>LRU Cache</li>
-      <li>Smallest Window Containing all the characters of another string</li>
-      <li>Mobile Numeric Keypad</li>
-      <li>Largest BST</li>  
-      <li>0-1 Knapsack</li>
     </ol>
 </ol>
